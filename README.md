@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
 </p>
 
-Chào mừng bạn đến với kho lưu trữ tổng hợp các báo cáo đồ án và tài liệu học tập của mình! 🎉 Nơi đây chứa đựng những kiến thức và sản phẩm mình đã thực hiện trong quá trình học tập và nghiên cứu các lĩnh vực Công nghệ Thông tin va Network Security.
+Chào mừng bạn đến với kho lưu trữ tổng hợp các báo cáo đồ án và tài liệu học tập của mình! 🎉 Nơi đây chứa đựng những kiến thức và sản phẩm mình đã thực hiện trong quá trình học tập và nghiên cứu các lĩnh vực Công nghệ Thông tin và Network Security.
 
 ---
 
@@ -21,11 +21,21 @@ Dưới đây là danh sách các báo cáo hiện có trong kho lưu trữ:
 *   📄 **Báo Cáo Quản Trị Hệ Thống Bảo Mật:** `Baocao_QTHTBAOMAT.docx`
 *   📄 **Báo Cáo Quản Trị Mạng:** `Baocao_Quantrimang.pdf`
 *   📄 **Báo Cáo Lập Trình Mạng:** `Baocao_laptrinhmang.docx`
+*   📄 **Báo Cáo Lập Trình Mạng Nâng Cao:** `Baocao_laptrinhmangnangcao.docx`
+*   📄 **Báo Cáo Bảo Mật Người Dùng Cuối:** `Baocao_baomatnguoidungcuoi.pdf`
+*   📄 **Báo Cáo Điều Tra Tấn Công:** `Baocao_dieutratancong.docx`
 
-### 📱 Lĩnh vực Lập Trình & Phát triển
+### ☁️ Lĩnh vực Điện toán đám mây & Phát triển phần mềm
 
+*   📄 **Báo Cáo Điện Toán Đám Mây:** `Baocao_Dientoandammay.docx`
+*   📄 **Báo Cáo Lập Trình Web:** `Baocao_laptrinhweb.pdf`
 *   📄 **Báo Cáo Lập Trình Mobile:** `Baocao_laptrinhmobile.pdf`
-*   📄 **Báo Cáo Website Quản Lý Quán Cà Phê:** `Trang web quản lý quán cà phê.pdf`
+
+### 🛠️ Mã nguồn & Chứng chỉ
+
+*   📦 **Mã nguồn Chatbot Java:** `CodeChatbotJava.rar`
+*   📦 **Mã nguồn Lập trình Mạng Nâng cao:** `CodeLaptrinhmangnangcao.rar`
+*   📜 **Chứng chỉ Tập huấn AI:** `Chứng chỉ tập huấn AI`
 
 ---
 
@@ -37,4 +47,3 @@ Dưới đây là danh sách các báo cáo hiện có trong kho lưu trữ:
 <p align="center">
   Cảm ơn bạn đã ghé thăm! 😊
 </p>
-
