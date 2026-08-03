@@ -23,7 +23,7 @@ Nơi đây lưu trữ những tài liệu mình đã thực hiện trong quá tr
 | Báo Cáo Quản Trị Hệ Thống Bảo Mật | `Baocao_QTHTBAOMAT.docx` |
 | Báo Cáo Quản Trị Mạng | `Baocao_Quantrimang.pdf` |
 | Báo Cáo Lập Trình Mạng | `Baocao_laptrinhmang.docx` |
-| Báo Cáo Lập Trình Mạng Nâng Cao | `Baocao_laptrinhmangnangcao.docx` |
+| Báo Cáo Lập Trình Mạng Nâng Cao | `Baocao_LTMnangcao.docx` |
 | Báo Cáo Bảo Mật Người Dùng Cuối | `Baocao_baomatnguoidungcuoi.pdf` |
 | Báo Cáo Điều Tra Tấn Công | `Baocao_dieutratancong.docx` |
 
@@ -52,10 +52,13 @@ Nơi đây lưu trữ những tài liệu mình đã thực hiện trong quá tr
 
 | 🎖️ Chứng chỉ | File |
 |--------------|------|
-| 🤖 Chứng chỉ Tập huấn AI | `Chứng chỉ tập huấn AI.pdf` |
+| 🤖 Chứng chỉ Tập huấn AI | `Certified_AI Đoàn TNCS.pdf` |
 | 🛡️ Certified LLM Security Expert (CLLMSE) | `Certified LLM Security Expert.pdf` |
 | 🔐 Certified Threat Intelligence (CTIGA) | `Certified-(CTIGA).pdf` |
-| ✨ Gemini Certified | `Gemini Certified_tatthang.pdf` |
+| ✨ Certified Gemini Educator | `Certified_Gemini Educator.pdf` |
+| ✨ Certified Gemini Faculty | `Certified_Gemini Faculty.pdf` |
+| ✨ Certified Gemini Student | `Certified_Gemini Student.pdf` |
+| 📘 Generative AI for Educators with Gemini (Google & MIT RAISE) | `Certified_GenAI_Educators_Gemini.pdf` |
 
 ---
 
