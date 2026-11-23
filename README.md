@@ -54,6 +54,7 @@ Nơi đây lưu trữ những tài liệu mình đã thực hiện trong quá tr
 |--------------|------|
 | 🤖 Chứng chỉ Tập huấn AI | `Certified_AI Đoàn TNCS.pdf` |
 | 🛡️ Certified LLM Security Expert (CLLMSE) | `Certified LLM Security Expert.pdf` |
+| 🛡️ Certified Network Security Fundamentals (CNSF) | `Certified Network Security Fundamentals.pdf` |
 | 🔐 Certified Threat Intelligence (CTIGA) | `Certified-(CTIGA).pdf` |
 | ✨ Certified Gemini Educator | `Certified_Gemini Educator.pdf` |
 | ✨ Certified Gemini Faculty | `Certified_Gemini Faculty.pdf` |
