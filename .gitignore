@@ -1,0 +1,17 @@
+# Tệp tạm / khóa của Microsoft Office
+~$*.docx
+~$*.doc
+~$*.xlsx
+~$*.pptx
+*.tmp
+
+# Tệp hệ thống Windows / macOS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+desktop.ini
+.DS_Store
+
+# Cấu hình IDE / Editor cục bộ
+.vscode/
+.idea/
