@@ -138,7 +138,6 @@ Thư mục lưu trữ: [`chung-chi/ai-va-gemini/`](chung-chi/ai-va-gemini)
 
 ---
 
-## Quy ước tổ chức
 
 <div align="center">
 
