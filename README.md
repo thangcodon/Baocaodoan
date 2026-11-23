@@ -22,8 +22,6 @@ Tổng hợp báo cáo học phần, đồ án chuyên ngành, mã nguồn thự
 
 ## Tổng quan
 
-Kho lưu trữ được tổ chức theo mô hình phân tầng 3 nhóm chính nhằm giúp tra cứu nhanh, đồng bộ tên tệp và thuận tiện mở trực tiếp trên GitHub:
-
 | Thư mục | Nhóm tài liệu | Số lượng | Định dạng | Phạm vi nội dung |
 |---|---|---:|---|---|
 | [`bao-cao/`](bao-cao) | Báo cáo đồ án & chuyên đề | 13 | `.docx`, `.pdf` | Mạng máy tính, An ninh mạng, Điện toán đám mây, Web, Mobile |
@@ -112,8 +110,6 @@ Thư mục lưu trữ: [`ma-nguon/`](ma-nguon)
 | 1 | **Chatbot Java** | Ứng dụng chat Client–Server viết bằng Java (`pom.xml`, `Server`, `Client`, `ChatSession`, giao diện đăng nhập/đăng ký) | `RAR` | [Tải về](ma-nguon/chatbot-java.rar) |
 | 2 | **Lập trình mạng nâng cao** | Mã nguồn đồ án môn Lập trình mạng nâng cao | `RAR` | [Tải về](ma-nguon/lap-trinh-mang-nang-cao.rar) |
 
-> **Lưu ý:** Tải tệp `.rar` về máy và giải nén bằng **WinRAR** hoặc **7-Zip** trước khi mở dự án trong IDE.
-
 ---
 
 ## Chứng chỉ chuyên môn
@@ -143,21 +139,6 @@ Thư mục lưu trữ: [`chung-chi/ai-va-gemini/`](chung-chi/ai-va-gemini)
 ---
 
 ## Quy ước tổ chức
-
-<details>
-<summary>Xem quy ước đặt tên và phân loại thư mục khi cập nhật tài liệu mới</summary>
-
-1. **Định dạng tên thư mục và tên tệp:** Sử dụng chữ thường tiếng Việt không dấu theo chuẩn `kebab-case` (các từ nối nhau bằng dấu gạch ngang `-`, không khoảng trắng, không ký tự đặc biệt) để đảm bảo đường dẫn luôn ổn định trên GitHub và đa nền tảng.
-   - Ví dụ: `bao-cao-an-ninh-mang.docx`, `certified-network-security-fundamentals-cnsf.pdf`.
-2. **Phân loại khi bổ sung tệp mới:**
-   - Báo cáo học phần / đồ án → đặt vào thư mục chuyên ngành tương ứng trong [`bao-cao/`](bao-cao).
-   - Mã nguồn → đặt vào [`ma-nguon/`](ma-nguon).
-   - Chứng chỉ → đặt vào nhóm lĩnh vực tương ứng trong [`chung-chi/`](chung-chi).
-3. **Cập nhật mục lục:** Sau khi thêm tệp mới, bổ sung một dòng kèm liên kết tương đối vào bảng tương ứng trong [`README.md`](README.md).
-
-</details>
-
----
 
 <div align="center">
 
